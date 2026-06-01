@@ -32,7 +32,7 @@ function ScrollToTop() {
 
 function App() {
   return (
-    <Router basename="/sanskar-valley-school">
+    <Router basename="/Sanskar">
       <ScrollToTop />
       <div className="flex flex-col min-h-screen bg-slate-900 text-slate-100">
         
